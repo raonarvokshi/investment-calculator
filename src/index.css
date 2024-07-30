@@ -88,7 +88,6 @@ body {
   text-align: center;
 }
 
-/* Media Queries */
 @media (max-width: 768px) {
   body {
     min-height: 100vh;
